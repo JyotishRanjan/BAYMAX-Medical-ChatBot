@@ -1,0 +1,5 @@
+Programming Language --> Python
+Generative AI Framework --> Lang Chain / Lama Index
+Web App --> Flask
+LLM --> meta Lama 2, bio bert, airavata
+Vector DB --> PineCone
