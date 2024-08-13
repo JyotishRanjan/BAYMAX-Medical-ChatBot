@@ -1,0 +1,8 @@
+download meta llama 2 model 
+
+
+---
+vs code terminal 
+---
+
+git clone https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML
